@@ -5,3 +5,4 @@ Pillow==9.2.0
 sqlparse
 tzdata
 wincertstore==0.2
+gunicorn
